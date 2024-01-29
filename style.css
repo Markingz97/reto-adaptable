@@ -53,18 +53,23 @@ a {
 }
 .title-I {    
     background-color: #eee;
+    box-shadow: 5px 5px 10px;
 }
 .title-II {
-    background-color: #eee;    
+    background-color: #eee;
+    box-shadow: 5px 5px 10px;
 }
 .title-III {
     background-color: #eee;
+    box-shadow: 5px 5px 10px;
 }
 .title-IV {
     background-color: #eee;
+    box-shadow: 5px 5px 10px;
 }
 .title-V {
     background-color: #eee;
+    box-shadow: 5px 5px 10px;
 }
 div {
 margin: 10px;
